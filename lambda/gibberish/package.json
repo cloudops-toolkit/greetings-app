@@ -1,0 +1,17 @@
+{
+  "name": "gibberish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "lorem-ipsum": "^2.0.8"
+  }
+}
